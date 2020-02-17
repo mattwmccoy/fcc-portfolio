@@ -1,7 +1,7 @@
 # Personal Portfolio Project
  _A Pen created at CodePen.io. Original URL: [https://codepen.io/mattmccoy/pen/EMvVgX](https://codepen.io/mattmccoy/pen/EMvVgX).
 
- A project created by Matt McCoy on February 28, 2019 for FreeCodeCamp's Personal Portfolio Webpage Project
+ A project created by Matt McCoy on March 10, 2019 for FreeCodeCamp's Personal Portfolio Webpage Project
 
 # Project Objectives
 
